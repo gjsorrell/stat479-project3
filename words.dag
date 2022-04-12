@@ -1,0 +1,4 @@
+job 1 job.sub
+script 1 pre pre.sh
+script 1 post post.sh
+parent 1
